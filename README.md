@@ -1,9 +1,9 @@
-🔢 #MultiCalc-Pro : Multipurpose Calculator
+🔢 # MultiCalc-Pro : Multipurpose Calculator
 Multipurpose Calculator is a versatile C++ console-based tool that helps you perform a wide range of mathematical and unit conversion operations commonly used in everyday life.
 Whether you're a student, professional, or just someone who frequently needs quick calculations, this calculator covers everything from basic arithmetic to complex conversions.
 
-🚀 ##Features
-🧮 ###Mathematical Operations
+🚀 ## Features
+### Mathematical Operations🧮 
 Perform common and advanced math calculations with ease:
 
 1. Basic Operations: Addition, Subtraction, Multiplication, Division
