@@ -35,7 +35,7 @@ Rupees ⇄ Euros
 8. Temperature:
 Celsius ⇄ Fahrenheit ⇄ Kelvin
 
-9 Speed:
+9. Speed:
 m/s ⇄ km/h
 
 10. Area:
@@ -48,17 +48,15 @@ Compile the C++ file using a compiler (like g++).
 Run the executable in the terminal.
 Follow the on-screen instructions to select and perform your desired operation.
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies & Development Environment
 Language: C++
 Platform: Console-based CLI application
-
-## 🛠️ Development Environment
-Platform: Visual Studio Code (VS Code)
-Language: C++
 Compiler: Any C++ compiler (e.g., g++, MinGW, or MSVC)
+Code Editor: Visual Studio Code
+OS Support: Cross-platform (Windows, Linux, macOS)
 
 ## 📄 License
-This project is open-source and available under the MIT License (you can change this if you choose a different license).
+This project is open-source and available under the MIT License.
 
 ## 💡 Contribution
 Contributions are welcome! Feel free to fork the repo, submit issues, or open pull requests to enhance the calculator with more features or improvements.
